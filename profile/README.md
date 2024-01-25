@@ -14,7 +14,7 @@ Our GitHub is a window into the diverse projects we undertake. We specialize in 
 
 We'd love to hear from you whether it's a new project inquiry, a suggestion, or just to say hello!
 
-- **Website**: [www.webringcode.com](http://www.webringcode.com)
+- **Website**: [www.webringcode.com](https://www.webringcode.com)
 - **LinkedIn**: [WeBringCode AB on LinkedIn](https://www.linkedin.com/company/webringcode)
 - **Email**: [admin@webringcode.com](mailto:admin@webringcode.com)
 
